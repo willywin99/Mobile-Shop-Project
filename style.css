@@ -1,3 +1,16 @@
-.nav-item {
+.nav-item:hover {
   border-bottom: 2px solid white;
+  transition: all .4s;
+  padding-top: 5rem;
+}
+.nav-item {
+  transition: all .4s;
+}
+.home {
+  background-image: linear-gradient(to right bottom, blue, rgba(110, 187, 110, 0.952));
+  height: 715px;
+}
+#btn1 {
+  padding-right: 95px;
+  padding-left: 95px;
 }
