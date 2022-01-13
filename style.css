@@ -4,7 +4,7 @@ nav {
 .nav-item:hover {
   border-bottom: 2px solid black;
   transition: all .4s;
-  padding-top: 5rem;
+  padding-top: 4rem;
 }
 .nav-item {
   transition: all .4s;
@@ -36,4 +36,9 @@ nav {
 .card:hover {
   transition: all .4s;
   box-shadow: 2px 1px 2px 0px rgba(0, 0, 0, 0.473);
+}
+.footer {
+  height: 400px;
+  width: 100%;
+  background-color: #222;
 }
