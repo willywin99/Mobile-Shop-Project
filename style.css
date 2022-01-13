@@ -17,3 +17,7 @@ nav {
   padding-right: 95px;
   padding-left: 95px;
 }
+.card-img-top {
+  max-height: 300px;
+  min-height: 300px;
+}
