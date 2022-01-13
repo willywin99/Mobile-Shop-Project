@@ -1,5 +1,8 @@
+nav {
+  box-shadow: 2px -2px 0 5px rgba(0, 0, 255, 0.673);
+}
 .nav-item:hover {
-  border-bottom: 2px solid white;
+  border-bottom: 2px solid black;
   transition: all .4s;
   padding-top: 5rem;
 }
