@@ -21,3 +21,19 @@ nav {
   max-height: 300px;
   min-height: 300px;
 }
+.img1 {
+  transform: translateY(-200px);
+}
+.btn-show {
+  background-image: linear-gradient(to right bottom, blue, rgba(110, 187, 110, 0.952));
+  color: white;
+  border: none;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.card:hover {
+  transition: all .4s;
+  box-shadow: 2px 1px 2px 0px rgba(0, 0, 0, 0.473);
+}
